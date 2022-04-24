@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nagaramit from Kota, Rajasthan, IN
+- 👋 Hi, I’m Amit Nagar from Kota, Rajasthan, IN
 - 👀 I’m interested in exploring the unknown
 - 🌱 I’m currently learning how to scale python in a restrictive environment
 - 💞️ I’m looking to collaborate on new ideas
